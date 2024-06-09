@@ -11,12 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Student Result DBMS**  | Designed & implemented a Student Result Database Management
-System using Python (Flask) & SQLAlchemy. Streamlined academic
-record-keeping, user-friendly data entry, secure login, and result calculation. Enhanced data accuracy and reporting, showcasing my skills in database design and backend development.                                           |https://github.com/khraina/Student-result-db    | https://github.com/khraina/Student-result-db            |
-| **Deepfake Detection Using Resnext and Lstm**  |Led the development of a cutting-edge deepfake detection system
-utilizing ResNext and LSTM models, achieving state-of-the-art accuracy in identifying manipulated videos.
-Implemented rigorous model training, evaluation, and integration processes to deliver a robust solution for combating the proliferation of misinformation in digital media.                                             |     | 
+| **Student Result DBMS**  | Designed & implemented a Student Result Database Management System using Python (Flask) & SQLAlchemy. Streamlined academic record-keeping, user-friendly data entry, secure login, and result calculation. Enhanced data accuracy and reporting, showcasing my skills in database design and backend development.                                           |https://github.com/khraina/Student-result-db    | https://github.com/khraina/Student-result-db            |https://github.com/khraina/Student-result-db  
+| **Deepfake Detection Using Resnext and Lstm**  |Led the development of a cutting-edge deepfake detection system utilizing ResNext and LSTM models, achieving state-of-the-art accuracyin identifying manipulated videos. Implemented rigorous model training, evaluation, and integration processes to deliver a robust solution for combating the proliferation of misinformation in digital media.                                             |   https://github.com/khraina/Deepfake-detection  | https://github.com/khraina/Deepfake-detection
 
 #### Leadership and Influence:
 
